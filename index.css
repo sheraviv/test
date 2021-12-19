@@ -1,0 +1,25 @@
+.header {
+  text-align: center;
+  background-color: blanchedalmond;
+}
+.cart-header {
+    text-align: center;
+}
+
+.inputs {
+  margin-top: 10px;
+}
+
+.imageDefault {
+  width: 100px;
+  height: 100px;
+}
+
+.clickable {
+  cursor: pointer;
+}
+
+.clickable.row-hover.selected-row {
+  background-color: yellow;
+}
+
